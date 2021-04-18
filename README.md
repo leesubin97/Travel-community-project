@@ -19,6 +19,19 @@
 
 
 
+개발환경
+|OS|Windows10|
+DB
+Oracle 11g, Tomcat
+Development Tools
+Eclipse
+사용기술(언어)
+Front-End
+Java, Servlet/JSP, EL, JSTL
+Back-End
+HTML, CSS3, XML, JavaScript, Jquery, Bootstrap, Ajax
+
+
 ## **요구분석(기능)**
 **분석내용**
 

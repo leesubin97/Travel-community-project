@@ -1,6 +1,6 @@
 # Travel-community-project
 
-## jsp servlet 
+## jsp servlet project
 
 ## **프로젝트 기획의도**
 

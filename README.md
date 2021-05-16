@@ -1,7 +1,7 @@
 # Travel-community-project
 
 ## jsp servlet project
-
+  
 ## **프로젝트 기획의도**  
   
 코로나로인해 위축된 국내관광사업 활성화를 위한 여행지 및 맛집 공유 커뮤니티
